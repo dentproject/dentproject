@@ -1,5 +1,5 @@
 # DENT Project Governance
-This document is a supplementary document to the DENT TSC Charter, which can be found [here] (https://dent.dev).
+This document is a supplementary document to the DENT TSC Charter, which can be found [here](https://dent.dev/wp-content/uploads/sites/36/2020/02/DENT-Project-Technical-Charter-1-31-2020.docx.pdf).
 
 ### Voting Members
 Voting members of the DENT TSC are
